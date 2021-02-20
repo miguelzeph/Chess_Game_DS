@@ -1,21 +1,23 @@
 # Jogo da velha + ML
 - Miguel Angelo do Amaral Junior
 
-### Desenvolvimento (Extração dos resultados)
+### Desenvolvimento do Game (Extração dos resultados)
 - game (x)
 - resultados extraidos (X)
 
 ### Treinamento da Rede Neural / Análise dos dados
 - limpeza dos dados (X)
 - Criação da Rede neural (X)
-- predições Teste (X) -> 96.46% acerto
-- Pesos salvos - "weight_01.h5" (X)
-- Filtrar apenas predições com resultado 1 ( )... se possível, depois 0.5 (fugir da derrota)
+- predições Teste (X) -> 100% acerto
+- Modelos salvo "model.h5" (X)
+- Pesos salvos - "weight.h5" (X)
+- Rede neural pronta para ser aplicada (X)
 
-### Desenvolvimento (Utilizar as predições para realizar jogadas)
-- Computador Lógica - Sortear apenas valores dentro das previsões de resultado 1 ( )
-- Buscar vitória ( )
-- buscar empate ( )
+### Desenvolvimento do Game (Fazer com que a Máquina utilize a Rede Neural para realizar jogadas)
+- Repensar na lógica (problema dos turnos) ( )
+- ~Computador Lógica - Sortear apenas valores dentro das previsões de resultado 1 ( )~
+- ~Buscar vitória ( )~
+- ~buscar empate ( )~
 
 ### Interface (Flask ou Django + css + html + js + boostrap)
 - colocar em produção ( )
