@@ -12,10 +12,10 @@
 - Modelos salvo "model.h5" (X)
 - Pesos salvos - "weight.h5" (X)
 - Rede neural pronta para ser aplicada (X)
+- importar modelos e weights (x)
 
 ### Desenvolvimento do Game (Fazer com que a Máquina utilize a Rede Neural para realizar jogadas)
-- Repensar na lógica (problema dos turnos) ( )
-- ~Computador Lógica - Sortear apenas valores dentro das previsões de resultado 1 ( )~
+- Computador Lógica - Sortear apenas valores dentro das previsões de resultado 1 ( )
 - ~Buscar vitória ( )~
 - ~buscar empate ( )~
 
